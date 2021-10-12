@@ -14,7 +14,7 @@ A Colab notes which can
 * also upload image host service [transfer.sh](https://transfer.sh)
 
 ## Usage
-[![Open in colab](https://cdn.jsdelivr.net/gh/TheKVT/Host/images/colab.svg)](https://colab.research.google.com/github/TheKVT/FLAC_ArtExtract/blob/master/FLAC_ArtExtract.ipynb)
+[![Open in colab](https://cdn.jsdelivr.net/gh/TheKVT/Host/images/colab.svg)](https://colab.research.google.com/github/TheKVT/Artwork_Extractor/blob/master/Artwork_Extractor.ipynb)
 
 * Mount Drive
 * Add respective paths
