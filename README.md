@@ -1,3 +1,4 @@
+<img src="https://cdn.jsdelivr.net/gh/TheKVT/Artwork_Extractor/images/audio.png" alt="audio-image" width="auto" height="auto"/><br/>
 # Artwork_Extractor 
 A Colab notes which can extract Album Artwork from any audio file and digital platforms Apple Music (iTunes), Bugs!.
 
